@@ -1,0 +1,9 @@
+.nav{
+  height: 30vh;
+  background-color: navajowhite;
+}
+nav li{
+  display: inline-block;
+  list-style: none;
+  padding: 0 5px;
+}
